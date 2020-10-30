@@ -1,3 +1,5 @@
 # Changelog for polysemy-fskvstore
 
-## Unreleased changes
+## v0.1.0.0
+
+* Add interpreters for running a kvstore as a filesystem.
