@@ -5,7 +5,8 @@
 {-# LANGUAGE PolyKinds      #-}
 {-# LANGUAGE TypeOperators  #-}
 module Polysemy.FSKVStore (
-  runFSKVStoreRelBS
+  FSKVStore
+, runFSKVStoreRelBS
 , runFSKVStoreAbsBS
 , runFSKVStoreRelUtf8
 , runFSKVStoreAbsUtf8
